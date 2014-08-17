@@ -1,0 +1,315 @@
+fiat 1000 100
+Complete requests:      1000
+Failed requests:        0
+Requests per second:    357.54 [#/sec] (mean)
+Complete requests:      1000
+Failed requests:        996
+Requests per second:    359.65 [#/sec] (mean)
+Complete requests:      1000
+Failed requests:        993
+Requests per second:    370.69 [#/sec] (mean)
+Complete requests:      1000
+Failed requests:        0
+Requests per second:    365.16 [#/sec] (mean)
+Complete requests:      1000
+Failed requests:        996
+Requests per second:    366.39 [#/sec] (mean)
+Complete requests:      1000
+Failed requests:        0
+Requests per second:    366.92 [#/sec] (mean)
+Complete requests:      1000
+Failed requests:        0
+Requests per second:    368.28 [#/sec] (mean)
+Complete requests:      1000
+Failed requests:        0
+Requests per second:    366.35 [#/sec] (mean)
+Complete requests:      1000
+Failed requests:        0
+Requests per second:    368.66 [#/sec] (mean)
+Complete requests:      1000
+Failed requests:        987
+Requests per second:    372.78 [#/sec] (mean)
+mahjong 1000 100
+Complete requests:      1000
+Failed requests:        7
+Requests per second:    1552.56 [#/sec] (mean)
+Complete requests:      1000
+Failed requests:        0
+Requests per second:    1548.08 [#/sec] (mean)
+Complete requests:      1000
+Failed requests:        0
+Requests per second:    1523.69 [#/sec] (mean)
+Complete requests:      1000
+Failed requests:        0
+Requests per second:    1568.01 [#/sec] (mean)
+Complete requests:      1000
+Failed requests:        0
+Requests per second:    1540.99 [#/sec] (mean)
+Complete requests:      1000
+Failed requests:        0
+Requests per second:    1572.17 [#/sec] (mean)
+Complete requests:      1000
+Failed requests:        0
+Requests per second:    1554.28 [#/sec] (mean)
+Complete requests:      1000
+Failed requests:        32
+Requests per second:    1590.73 [#/sec] (mean)
+Complete requests:      1000
+Failed requests:        0
+Requests per second:    1562.96 [#/sec] (mean)
+Complete requests:      1000
+Failed requests:        59
+Requests per second:    1606.73 [#/sec] (mean)
+fiat 2000 200
+Complete requests:      2000
+Failed requests:        1688
+Requests per second:    1521.61 [#/sec] (mean)
+Complete requests:      2000
+Failed requests:        1690
+Requests per second:    1698.41 [#/sec] (mean)
+Complete requests:      2000
+Failed requests:        1656
+Requests per second:    1675.90 [#/sec] (mean)
+Complete requests:      2000
+Failed requests:        1012
+Requests per second:    1694.43 [#/sec] (mean)
+Complete requests:      2000
+Failed requests:        960
+Requests per second:    1851.42 [#/sec] (mean)
+Complete requests:      2000
+Failed requests:        1774
+Requests per second:    1824.32 [#/sec] (mean)
+Complete requests:      2000
+Failed requests:        903
+Requests per second:    1517.65 [#/sec] (mean)
+Complete requests:      2000
+Failed requests:        1663
+Requests per second:    1584.95 [#/sec] (mean)
+Complete requests:      2000
+Failed requests:        1727
+Requests per second:    1671.10 [#/sec] (mean)
+Complete requests:      2000
+Failed requests:        1588
+Requests per second:    1536.88 [#/sec] (mean)
+mahjong 2000 200
+Complete requests:      2000
+Failed requests:        843
+Requests per second:    2129.52 [#/sec] (mean)
+Complete requests:      2000
+Failed requests:        946
+Requests per second:    2237.48 [#/sec] (mean)
+Complete requests:      2000
+Failed requests:        965
+Requests per second:    2228.97 [#/sec] (mean)
+Complete requests:      2000
+Failed requests:        814
+Requests per second:    2111.92 [#/sec] (mean)
+Complete requests:      2000
+Failed requests:        959
+Requests per second:    2247.59 [#/sec] (mean)
+Complete requests:      2000
+Failed requests:        871
+Requests per second:    2146.37 [#/sec] (mean)
+Complete requests:      2000
+Failed requests:        1211
+Requests per second:    2537.37 [#/sec] (mean)
+Complete requests:      2000
+Failed requests:        849
+Requests per second:    2125.87 [#/sec] (mean)
+Complete requests:      2000
+Failed requests:        1257
+Requests per second:    2606.44 [#/sec] (mean)
+Complete requests:      2000
+Failed requests:        1072
+Requests per second:    2330.36 [#/sec] (mean)
+fiat 3000 300
+Complete requests:      3000
+Failed requests:        2804
+Requests per second:    2367.67 [#/sec] (mean)
+Complete requests:      3000
+Failed requests:        1976
+Requests per second:    2051.12 [#/sec] (mean)
+Complete requests:      3000
+Failed requests:        2001
+Requests per second:    2077.49 [#/sec] (mean)
+Complete requests:      3000
+Failed requests:        1771
+Requests per second:    2253.67 [#/sec] (mean)
+Complete requests:      3000
+Failed requests:        1686
+Requests per second:    2310.31 [#/sec] (mean)
+Complete requests:      3000
+Failed requests:        1164
+Requests per second:    2127.42 [#/sec] (mean)
+Complete requests:      3000
+Failed requests:        2217
+Requests per second:    2287.54 [#/sec] (mean)
+Complete requests:      3000
+Failed requests:        1623
+Requests per second:    2207.97 [#/sec] (mean)
+Complete requests:      3000
+Failed requests:        1321
+Requests per second:    2263.70 [#/sec] (mean)
+mahjong 3000 300
+Complete requests:      3000
+Failed requests:        1530
+Requests per second:    2283.24 [#/sec] (mean)
+Complete requests:      3000
+Failed requests:        1517
+Requests per second:    2250.69 [#/sec] (mean)
+Complete requests:      3000
+Failed requests:        1566
+Requests per second:    2326.48 [#/sec] (mean)
+Complete requests:      3000
+Failed requests:        1356
+Requests per second:    2143.53 [#/sec] (mean)
+Complete requests:      3000
+Failed requests:        1511
+Requests per second:    2257.56 [#/sec] (mean)
+Complete requests:      3000
+Failed requests:        1410
+Requests per second:    2118.09 [#/sec] (mean)
+Complete requests:      3000
+Failed requests:        1452
+Requests per second:    2212.23 [#/sec] (mean)
+Complete requests:      3000
+Failed requests:        1376
+Requests per second:    2136.27 [#/sec] (mean)
+Complete requests:      3000
+Failed requests:        1810
+Requests per second:    2505.41 [#/sec] (mean)
+Complete requests:      3000
+Failed requests:        1614
+Requests per second:    2349.64 [#/sec] (mean)
+fiat 4000 400
+Complete requests:      4000
+Failed requests:        3678
+Requests per second:    2283.47 [#/sec] (mean)
+Complete requests:      4000
+Failed requests:        1884
+Requests per second:    2578.98 [#/sec] (mean)
+Complete requests:      4000
+Failed requests:        1668
+Requests per second:    2376.66 [#/sec] (mean)
+Complete requests:      4000
+Failed requests:        2033
+Requests per second:    2342.95 [#/sec] (mean)
+Complete requests:      4000
+Failed requests:        2471
+Requests per second:    2317.93 [#/sec] (mean)
+Complete requests:      4000
+Failed requests:        2485
+Requests per second:    2303.64 [#/sec] (mean)
+Complete requests:      4000
+Failed requests:        1592
+Requests per second:    2289.08 [#/sec] (mean)
+Complete requests:      4000
+Failed requests:        2104
+Requests per second:    2317.51 [#/sec] (mean)
+Complete requests:      4000
+Failed requests:        2265
+Requests per second:    2399.23 [#/sec] (mean)
+Complete requests:      4000
+Failed requests:        2236
+Requests per second:    2276.87 [#/sec] (mean)
+mahjong 4000 400
+Complete requests:      4000
+Failed requests:        2126
+Requests per second:    1337.64 [#/sec] (mean)
+Complete requests:      4000
+Failed requests:        2069
+Requests per second:    361.67 [#/sec] (mean)
+Complete requests:      4000
+Failed requests:        1574
+Requests per second:    166.62 [#/sec] (mean)
+Complete requests:      4000
+Failed requests:        519
+Requests per second:    77.19 [#/sec] (mean)
+fiat 5000 500
+Complete requests:      5000
+Failed requests:        2749
+Requests per second:    1460.93 [#/sec] (mean)
+Complete requests:      5000
+Failed requests:        1316
+Requests per second:    1240.13 [#/sec] (mean)
+Complete requests:      5000
+Failed requests:        3154
+Requests per second:    1004.31 [#/sec] (mean)
+Complete requests:      5000
+Failed requests:        4534
+Requests per second:    691.40 [#/sec] (mean)
+Complete requests:      5000
+Failed requests:        4570
+Requests per second:    379.49 [#/sec] (mean)
+mahjong 5000 500
+Complete requests:      5000
+Failed requests:        2054
+Requests per second:    96.86 [#/sec] (mean)
+Complete requests:      5000
+Failed requests:        1425
+Requests per second:    96.85 [#/sec] (mean)
+Complete requests:      5000
+Failed requests:        2186
+Requests per second:    1795.26 [#/sec] (mean)
+Complete requests:      5000
+Failed requests:        2717
+Requests per second:    2099.03 [#/sec] (mean)
+Complete requests:      5000
+Failed requests:        2285
+Requests per second:    2099.78 [#/sec] (mean)
+Complete requests:      5000
+Failed requests:        2591
+Requests per second:    2235.24 [#/sec] (mean)
+Complete requests:      5000
+Failed requests:        2669
+Requests per second:    2329.38 [#/sec] (mean)
+fiat 6000 600
+Complete requests:      6000
+Failed requests:        3484
+Requests per second:    1817.72 [#/sec] (mean)
+Complete requests:      6000
+Failed requests:        2697
+Requests per second:    1272.51 [#/sec] (mean)
+Complete requests:      6000
+Failed requests:        3529
+Requests per second:    894.31 [#/sec] (mean)
+Complete requests:      6000
+Failed requests:        3714
+Requests per second:    512.63 [#/sec] (mean)
+Complete requests:      6000
+Failed requests:        3855
+Requests per second:    111.89 [#/sec] (mean)
+Complete requests:      6000
+Failed requests:        5609
+Requests per second:    112.31 [#/sec] (mean)
+mahjong 6000 600
+Complete requests:      6000
+Failed requests:        4137
+Requests per second:    109.84 [#/sec] (mean)
+Complete requests:      6000
+Failed requests:        4592
+Requests per second:    116.67 [#/sec] (mean)
+Complete requests:      6000
+Failed requests:        1889
+Requests per second:    490.28 [#/sec] (mean)
+Complete requests:      6000
+Failed requests:        1892
+Requests per second:    184.89 [#/sec] (mean)
+Complete requests:      6000
+Failed requests:        1735
+Requests per second:    246.25 [#/sec] (mean)
+Complete requests:      6000
+Failed requests:        2310
+Requests per second:    116.67 [#/sec] (mean)
+Complete requests:      6000
+Failed requests:        3237
+Requests per second:    111.47 [#/sec] (mean)
+Complete requests:      6000
+Failed requests:        4489
+Requests per second:    116.67 [#/sec] (mean)
+Complete requests:      6000
+Failed requests:        4001
+Requests per second:    116.21 [#/sec] (mean)
+Complete requests:      6000
+Failed requests:        3207
+Requests per second:    593.60 [#/sec] (mean)
